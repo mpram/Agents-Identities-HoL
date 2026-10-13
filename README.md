@@ -2,9 +2,10 @@
 
 Hands-on lab materials for identity teams exploring agent identity patterns.
 
-## Available lab
+## Available labs
 
 - [Lab 01 - Copilot Studio Agents](Lab%2001%20-%20Copilot%20Studio.md): Create a Claims Analyst agent, connect SharePoint knowledge, publish to Microsoft Teams, and apply a Conditional Access policy to the lab agent.
+- [Lab 02 - Atendee guide](Atendees-Labs/Lab%20-%2002%20Atendees%20Guide.md): Create an agent identity blueprint, configure federation, attach the agent, and explore delegated Incidents access and application-only Assets access.
 
 ## Before you begin
 
@@ -15,3 +16,4 @@ Follow the instructor's guidance and stop at the marked checkpoint before testin
 All claims and other business data used in this lab are fictitious and intended for training only.
 
 The screenshots referenced by Lab 01 are included in the [images](images) folder.
+The screenshot referenced by Lab 02 is included in the [Atendees-Labs/images](Atendees-Labs/images) folder.
