@@ -14,6 +14,3 @@ Use the temporary workshop account and the instructor-provided training environm
 Follow the instructor's guidance and stop at the marked checkpoint before testing the high-risk agent policy.
 
 All claims and other business data used in this lab are fictitious and intended for training only.
-
-The screenshots referenced by Lab 01 are included in the [images](images) folder.
-The screenshot referenced by Lab 02 is included in the [Atendees-Labs/images](Atendees-Labs/images) folder.
