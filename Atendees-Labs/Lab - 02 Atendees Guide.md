@@ -100,9 +100,8 @@ blueprint or runtime managed identity.
    and select **Request**.
 3. Under **Request details**, select **Requesting for Sponsored agent**.
    If you are its owner rather than its sponsor, select **Requesting for Owned
-   agent**. Select your linked Agent Identity and select **Continue**. Verify
-   that it is the same identity whose **Application ID** you attached in Step 4.
-   Do not submit a request for yourself.
+   agent**. Select your linked Agent Identity and select **Continue**.
+   Provide a **Business Justification** and click **Submit request**.
 4. Wait for instructor approval and successful access provisioning. An approval
    notification alone does not prove the agent's permission has propagated.
    No administrator needs to enable the runtime after approval. The existing
