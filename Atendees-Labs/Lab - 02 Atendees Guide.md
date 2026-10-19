@@ -40,8 +40,6 @@ only your own lab objects. The instructor removes lab roles during cleanup.
 
 On your **blueprint**, open **Credentials > Federated credentials** and select
 **Add credential**.
-If it is not available in your portal, ask the instructor for the current portal
-or Graph Explorer walkthrough; do not add the credential to the child.
 
 Keep your Lab 02 entrance open beside the Entra form. The entrance shows your
 assigned values under the **same field names** as the form. The Issuer comes from
