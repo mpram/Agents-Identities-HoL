@@ -68,6 +68,8 @@ Use the manual-entry scenario for this lab:
 This trust allows only your assigned runtime identity to authenticate through
 your blueprint. A FIC does not contain a password.
 
+![Add a federated credential to the blueprint using the matching fields from the Lab 02 entrance](images/lab-02-federated-credential-setup.png)
+
 ## 4. Attach your agent
 
 The portal shows the values required for your FIC:
