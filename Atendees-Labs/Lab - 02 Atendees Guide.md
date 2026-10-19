@@ -96,7 +96,7 @@ blueprint or runtime managed identity.
 
 1. Open [My Access](https://myaccess.microsoft.com/) and sign in with your
    workshop account, not the instructor's approval account.
-2. Select **Access packages**, locate **Identity Lab — Agent Assets Read**,
+2. Select **Access packages**, **View All**, locate **Identity Lab — Agent Assets Read**,
    and select **Request**.
 3. Under **Request details**, select **Requesting for Sponsored agent**.
    If you are its owner rather than its sponsor, select **Requesting for Owned
