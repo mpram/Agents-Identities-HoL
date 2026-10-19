@@ -16,6 +16,8 @@ Assets using its own identity, rather than acting on behalf of your user.
 3. Use your assigned workshop account, not your personal or work account.
 4. Confirm your assigned Atendee slot appears.
 
+![Lab 02 entrance showing the signed-in workshop account and assigned attendee slot](images/lab-02-entrance-sign-in.png)
+
 ## 2. Create your blueprint
 
 The instructor assigns Agent ID Administrator for this dedicated lab's portal
