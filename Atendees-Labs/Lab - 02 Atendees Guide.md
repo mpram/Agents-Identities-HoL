@@ -104,9 +104,6 @@ blueprint or runtime managed identity.
    Provide a **Business Justification** and click **Submit request**.
 4. Wait for instructor approval and successful access provisioning. An approval
    notification alone does not prove the agent's permission has propagated.
-   No administrator needs to enable the runtime after approval. The existing
-   package requires justification and one instructor approval
-   stage; its assignments expire after one day.
 5. Retry **Read assets - as the agent, no model** with the same agent. The
    expected result is a bounded Assets read.
 
