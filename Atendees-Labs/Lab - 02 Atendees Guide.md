@@ -79,6 +79,8 @@ your blueprint. A FIC does not contain a password.
 4. Watch the progress indicator and status:
    **Queued > Validating > Granting > Binding > Checking > Ready**.
 
+![Attach your agent form with the Agent Identity (Application ID) field and Attach my agent button](images/lab-02-attach-your-agent.png)
+
 ### Where to find Agent Identity (Application ID)
 
 Open **Entra ID > Agents > Agent identities**, select your linked identity, and
