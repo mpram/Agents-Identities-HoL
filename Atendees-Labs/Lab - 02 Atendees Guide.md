@@ -72,18 +72,6 @@ your blueprint. A FIC does not contain a password.
 
 ## 4. Attach your agent
 
-The portal shows the values required for your FIC:
-
-| Entra form field | What to select or copy from the entrance |
-|---|---|
-| Federated credential scenario | Select **Other issuer** |
-| Issuer | Copy **Issuer** exactly |
-| Type | Select **Explicit subject identifier** |
-| Value | Copy **Value** exactly |
-| Name | Copy the suggested **Name**, without a trailing period |
-| Description | Leave blank (optional) |
-| Audience | Confirm **Audience** matches `api://AzureADTokenExchange` |
-
 1. Return to the workshop entrance.
 2. Paste your **Agent Identity (Application ID)** from the linked Agent identity's
    **Overview > Application ID** field.
