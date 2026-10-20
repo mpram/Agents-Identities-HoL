@@ -52,7 +52,15 @@
    - Conditions → Agent risk → High.
    - Grant → Block access (agents can't satisfy MFA, so the grant must be Block).
    - Enable policy → On. Save.
-4. Open the agent in Teams and prompt it (this exercises the agent identity, not the Test pane):
+4. Publish the agent to the store from the Microsoft 365 admin center:
+   - Open the [Microsoft 365 admin center](https://admin.cloud.microsoft/?#/agents/overview)
+     with an administrator account. Go to Agents → All agents, then select the Requests tab.
+
+     ![Microsoft 365 admin center with All agents and the Requests tab highlighted, showing Contoso Claims Analyst pending review](images/lab01-admin-center-agent-requests.png)
+
+   - Find your Contoso Claims Analyst agent, open it, and click Publish to the store.
+   - Keep All users selected for this lab, then click Next → Next → Publish.
+5. Open the agent in Teams and prompt it (this exercises the agent identity, not the Test pane):
    - Go back to Copilot Studio and open the Contoso Claims Analyst agent.
    - Open the Channels tab and select the Microsoft 365 and Microsoft Teams channel.
    - In the channel panel, under Agent preview, click See agent in Teams.
