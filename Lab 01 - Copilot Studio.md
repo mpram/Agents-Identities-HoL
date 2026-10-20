@@ -37,6 +37,15 @@
 
 ![Copilot Studio Microsoft 365 and Microsoft Teams channel panel with Availability options and See agent in Teams highlighted](images/lab01-channel-availability-options.png)
 
+16. Open the [Microsoft 365 admin center](https://admin.cloud.microsoft/?#/agents/overview)
+    with an administrator account. Go to Agents → All agents, then select the Requests tab.
+
+    ![Microsoft 365 admin center with All agents and the Requests tab highlighted, showing Contoso Claims Analyst pending review](images/lab01-admin-center-agent-requests.png)
+
+17. Find your Contoso Claims Analyst agent, open it, and click Publish to the store.
+18. Keep All users selected for this lab, then click Next → Next → Publish.
+    Once publishing is complete, continue with Step 2.
+
 ---
 
 ## Step 2: Confirm the Agent Identity and block a risky agent with Conditional Access
