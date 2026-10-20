@@ -13,6 +13,9 @@
 3. Top-right → click the chevron (⌄) next to New agent to open the build options.
 4. Under Other ways to build, choose Agent Standard ("Create a rule-based
    conversational agent with predefined topics and flows").
+
+   ![Copilot Studio home page with Other ways to build highlighted](images/lab01-other-ways-to-build.png)
+
 5. On the "Describe your agent" screen, choose Skip to configure (top-right) for a
    predictable path.
 6. On the configure form, set:
